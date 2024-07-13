@@ -1,0 +1,2 @@
+urllib3_future<0.0.0
+niquests<0.0.0
