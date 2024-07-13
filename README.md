@@ -13,8 +13,6 @@ will not install `0.19.1` but `0.18.0` that does not require `urllib3.future`
 
 If conflict resolution cannot be solved, pip will show this error:
 
-This way installation of overshadowing packages will be restricted by constraint and will show the message:
-
 ```bash
 ERROR: Cannot install niquests because these package versions have conflicting dependencies.
 
