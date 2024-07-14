@@ -5,7 +5,7 @@ This repo is for constraints files that help block conflicting packages. For now
 * niquists (depends on urllib3.future, added for faster resolution of niquists)
 * urllib3.future
 
-This list will be extended by packages that depend on the urlib3.future to provide faster resolution but it will work even with them, for example issuing:
+This list will be extended by packages that depend on the urlib3.future to provide faster resolution but it will work even without them, for example issuing:
 
 `pip install grafana-wtf<=0.19.1` 
 
